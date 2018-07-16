@@ -1,0 +1,32 @@
+{
+  "name": "abi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlockchainVoters/ABI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlockchainVoters/ABI/issues"
+  },
+  "homepage": "https://github.com/BlockchainVoters/ABI#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ethereumjs-abi": "^0.6.5",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "jsonwebtoken": "^8.3.0",
+    "morgan": "^1.9.0",
+    "shortid": "^2.2.12",
+    "uuid": "^3.3.2"
+  }
+}
